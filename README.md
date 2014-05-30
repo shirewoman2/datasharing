@@ -3,8 +3,8 @@ How to share data with a statistician
 
 This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
 
-* Scientific collaborators who need statisticians to analyze data for them
-* Students or postdocs in scientific disciplines looking for consulting advice
+* Scientific collaborators who need statisticians to analyze data for them <- That's me!
+* Students or postdocs in scientific disciplines looking for consulting advice <- That's me, too!
 * Junior statistics students whose job it is to collate/clean data sets
 
 The goals of this guide are to provide some instruction on the best way to share data to avoid the most common pitfalls
